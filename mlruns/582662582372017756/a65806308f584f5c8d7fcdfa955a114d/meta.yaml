@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sumair/Desktop/mlflow/Mlops/mlruns/582662582372017756/a65806308f584f5c8d7fcdfa955a114d/artifacts
+end_time: 1746556160560
+entry_point_name: ''
+experiment_id: '582662582372017756'
+lifecycle_stage: active
+run_id: a65806308f584f5c8d7fcdfa955a114d
+run_name: Logistic Regression
+run_uuid: a65806308f584f5c8d7fcdfa955a114d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746556154770
+status: 3
+tags: []
+user_id: sumair

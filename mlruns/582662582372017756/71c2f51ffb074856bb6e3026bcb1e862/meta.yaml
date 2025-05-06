@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sumair/Desktop/mlflow/Mlops/mlruns/582662582372017756/71c2f51ffb074856bb6e3026bcb1e862/artifacts
+end_time: 1746556193188
+entry_point_name: ''
+experiment_id: '582662582372017756'
+lifecycle_stage: active
+run_id: 71c2f51ffb074856bb6e3026bcb1e862
+run_name: Naive Bayes
+run_uuid: 71c2f51ffb074856bb6e3026bcb1e862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746556186118
+status: 3
+tags: []
+user_id: sumair

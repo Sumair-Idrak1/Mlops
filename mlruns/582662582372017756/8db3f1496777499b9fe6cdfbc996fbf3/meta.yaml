@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sumair/Desktop/mlflow/Mlops/mlruns/582662582372017756/8db3f1496777499b9fe6cdfbc996fbf3/artifacts
+end_time: 1746556166654
+entry_point_name: ''
+experiment_id: '582662582372017756'
+lifecycle_stage: active
+run_id: 8db3f1496777499b9fe6cdfbc996fbf3
+run_name: Decision Tree
+run_uuid: 8db3f1496777499b9fe6cdfbc996fbf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746556160564
+status: 3
+tags: []
+user_id: sumair

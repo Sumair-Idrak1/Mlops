@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sumair/Desktop/mlflow/Mlops/mlruns/582662582372017756/2012a5e85ee14593963f76d9d40048ba/artifacts
+end_time: 1746556179085
+entry_point_name: ''
+experiment_id: '582662582372017756'
+lifecycle_stage: active
+run_id: 2012a5e85ee14593963f76d9d40048ba
+run_name: Support Vector Machine
+run_uuid: 2012a5e85ee14593963f76d9d40048ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746556172829
+status: 3
+tags: []
+user_id: sumair

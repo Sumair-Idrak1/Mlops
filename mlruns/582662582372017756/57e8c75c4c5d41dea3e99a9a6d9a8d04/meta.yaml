@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sumair/Desktop/mlflow/Mlops/mlruns/582662582372017756/57e8c75c4c5d41dea3e99a9a6d9a8d04/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '582662582372017756'
+lifecycle_stage: active
+run_id: 57e8c75c4c5d41dea3e99a9a6d9a8d04
+run_name: honorable-fawn-250
+run_uuid: 57e8c75c4c5d41dea3e99a9a6d9a8d04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746556336517
+status: 1
+tags: []
+user_id: sumair
